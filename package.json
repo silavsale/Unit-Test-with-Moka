@@ -1,0 +1,25 @@
+{
+  "name": "unit-test-with-moka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "person.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silavsale/Unit-Test-with-Moka.git"
+  },
+  "author": "Sergiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silavsale/Unit-Test-with-Moka/issues"
+  },
+  "homepage": "https://github.com/silavsale/Unit-Test-with-Moka#readme"
+}
